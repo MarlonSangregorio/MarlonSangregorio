@@ -1,4 +1,4 @@
-### Olá, meu nome é Marlon! 👋
+### Olá, o meu nome é Marlon! 
 
 <!--
 **MarlonSangregorio/MarlonSangregorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
